@@ -1,0 +1,533 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "i-Phone 5s",
+      "image": "/iphone5s.png",
+      "price": 100,
+      "description": "The iPhone 5s combines classic design with reliable performance. Featuring a 4-inch Retina display, Touch ID fingerprint sensor, and A7 chip, it’s a compact and efficient choice for everyday use."
+    },
+    {
+      "id": "2",
+      "title": "i-Phone 6s",
+      "image": "/iphone6s.png",
+      "price": 100,
+      "description": "Powered by the A9 chip and 3D Touch, the iPhone 6s delivers enhanced performance with a smooth user experience. A perfect blend of speed, design, and compact form factor."
+    },
+    {
+      "id": "3",
+      "title": "i-Phone 8",
+      "image": "/iphone8.png",
+      "price": 100,
+      "description": "The iPhone 8 features a glass back for wireless charging, A11 Bionic chip, and a 12MP camera for detailed photos and 4K video. Durable, fast, and stylish."
+    },
+    {
+      "id": "4",
+      "title": "i-Phone 8 Pro",
+      "image": "/iphone8pro.png",
+      "price": 100,
+      "description": "An upgraded version of the iPhone 8, the 8 Pro delivers enhanced performance with a brighter display, improved camera system, and wireless charging."
+    },
+    {
+      "id": "15",
+      "title": "i-Phone XR",
+      "image": "/iphonexr.png",
+      "price": 100,
+      "description": "The iPhone XR features a Liquid Retina display, Face ID, and the powerful A12 Bionic chip. It offers excellent battery life and comes in a variety of vibrant colors."
+    },
+    {
+      "id": "16",
+      "title": "i-Phone XS",
+      "image": "/iphonexs.png",
+      "price": 100,
+      "description": "Sleek and powerful, the iPhone XS features an OLED Super Retina display, Face ID, and dual 12MP cameras. Built for performance and luxury in a compact design."
+    },
+    {
+      "id": "5",
+      "title": "i-Phone 11",
+      "image": "/iphone11.png",
+      "price": 100,
+      "description": "A best-seller, the iPhone 11 offers an all-day battery, A13 Bionic chip, and a dual-camera system that captures incredible low-light shots and 4K video."
+    },
+    {
+      "id": "6",
+      "title": "i-Phone 11 Pro",
+      "image": "/iphone11pro.png",
+      "price": 100,
+      "description": "Designed for professionals, the iPhone 11 Pro features a triple-camera system, Super Retina XDR display, and unmatched performance with the A13 Bionic chip."
+    },
+    {
+      "id": "7",
+      "title": "i-Phone 13",
+      "image": "/iphone13.png",
+      "price": 100,
+      "description": "The iPhone 13 delivers a faster A15 Bionic chip, improved battery life, and dual-camera upgrades for sharper images and cinematic video recording."
+    },
+    {
+      "id": "8",
+      "title": "i-Phone 13 Pro",
+      "image": "/iphone13pro.png",
+      "price": 100,
+      "description": "A premium model with ProMotion 120Hz display, triple-camera system, and longer battery life. The iPhone 13 Pro is built for power users and content creators."
+    },
+    {
+      "id": "9",
+      "title": "i-Phone 15 Pro",
+      "image": "/iphone15pro.png",
+      "price": 100,
+      "description": "Built with a titanium body, the iPhone 15 Pro features the A17 Pro chip, improved cameras with 5x zoom, and a USB-C port for faster connectivity."
+    },
+    {
+      "id": "10",
+      "title": "i-Phone 15 Pro Max",
+      "image": "/iphone15promax.png",
+      "price": 100,
+      "description": "The most advanced iPhone yet, featuring a massive display, ProMotion tech, long battery life, and the best-ever camera system in an iPhone."
+    },
+    {
+      "id": "11",
+      "title": "i-Phone 16e",
+      "image": "/iphone16e.png",
+      "price": 100,
+      "description": "The iPhone 16e is a budget-friendly version of the iPhone 16 series, delivering strong performance, an edge-to-edge display, and modern design at an affordable price."
+    },
+    {
+      "id": "12",
+      "title": "i-Phone 16",
+      "image": "/iphone16.png",
+      "price": 100,
+      "description": "The iPhone 16 introduces next-gen features, longer battery life, and refined performance with the A18 chip, ideal for users seeking speed and style."
+    },
+    {
+      "id": "13",
+      "title": "i-Phone 16 Pro",
+      "image": "/iphone16.png",
+      "price": 100,
+      "description": "iPhone 16 Pro blends performance with elegance—equipped with Pro cameras, dynamic refresh rate, and cutting-edge AI-powered features."
+    },
+    {
+      "id": "14",
+      "title": "i-Phone 16 Pro",
+      "image": "/iphone16pro.png",
+      "price": 100,
+      "description": "Experience the best of Apple with iPhone 16 Pro: immersive display, advanced A18 chip, premium build, and powerful camera upgrades for professionals."
+    }
+  ],
+  "cart": [],
+  "e-com-ids": [
+    {
+      "id": "1745815137685",
+      "text": "dgh",
+      "completed": false
+    },
+    {
+      "id": "1746427825858",
+      "email": "fgaeg",
+      "password": ""
+    },
+    {
+      "id": "1746427882572",
+      "email": "asdf",
+      "password": "asdf"
+    },
+    {
+      "id": "1746428506336",
+      "email": "ffff",
+      "password": "ffff"
+    },
+    {
+      "id": "1746428519064",
+      "email": "ffffff",
+      "password": "ffffff"
+    },
+    {
+      "id": "1746428864529",
+      "email": "ssss",
+      "password": "sssss"
+    },
+    {
+      "id": "1746506804435",
+      "email": "ssss",
+      "password": "ss"
+    },
+    {
+      "id": "1746520987254",
+      "email": "ddfdfdd",
+      "password": "ddddd"
+    },
+    {
+      "id": "1746537970002",
+      "email": "111",
+      "password": "1111"
+    },
+    {
+      "id": "1746538973548",
+      "email": "qwwe",
+      "password": "qw2wee"
+    },
+    {
+      "id": "1746539686240",
+      "email": "qwee",
+      "password": "qwewer"
+    },
+    {
+      "id": "1746539794815",
+      "email": "641656",
+      "password": "6564646"
+    },
+    {
+      "id": "1746592419330",
+      "email": "qqqq",
+      "password": "qqqqq"
+    },
+    {
+      "id": "1746596845326",
+      "email": "ewfWE",
+      "password": "tyeth"
+    },
+    {
+      "id": "1746600740702",
+      "email": "aaaa",
+      "password": "aaa"
+    },
+    {
+      "id": "1746685190022",
+      "email": "ddfgg",
+      "password": "bgfbgg"
+    },
+    {
+      "id": "1746764156339",
+      "email": "aaaa",
+      "password": "sssssss"
+    },
+    {
+      "id": "1747023755693",
+      "email": "cscsc",
+      "password": "xc xz"
+    },
+    {
+      "id": "1747293472168",
+      "email": "hello kumar",
+      "password": "black belt"
+    },
+    {
+      "id": "1747294073582",
+      "email": "kumar",
+      "password": "kumar"
+    },
+    {
+      "id": "1747294411798",
+      "email": "kumar",
+      "password": "kumar"
+    },
+    {
+      "id": "1747294588939",
+      "name": "kumar",
+      "email": "kumar",
+      "password": "kumar"
+    },
+    {
+      "id": "1747294779316",
+      "name": "kumar",
+      "email": "know ",
+      "password": "kumar"
+    },
+    {
+      "id": "1747295558815",
+      "email": "ddddd",
+      "password": "dddddd"
+    },
+    {
+      "id": "1747295842960",
+      "name": "yuvluy",
+      "email": "ljhbb",
+      "password": "ipbjbpi"
+    },
+    {
+      "id": "1747295945752",
+      "name": "sdgad",
+      "email": "adfbd",
+      "password": "adbaer"
+    },
+    {
+      "id": "1747295971650",
+      "name": "asdascas",
+      "email": "ascdas",
+      "password": "ascas"
+    },
+    {
+      "id": "1747296328252",
+      "name": "ddddd",
+      "email": "ddddd",
+      "password": "ddddddd"
+    },
+    {
+      "id": "1747296815819",
+      "name": "ggggg",
+      "email": "ggggg",
+      "password": "gggggg"
+    },
+    {
+      "id": "1747296975612",
+      "name": "xxxxx",
+      "email": "xxxxx",
+      "password": "xxxxxxx"
+    },
+    {
+      "id": "1747297021556",
+      "name": "eeeee",
+      "email": "eeeee",
+      "password": "eeeeee"
+    },
+    {
+      "id": "1747297345270",
+      "name": "gggg",
+      "email": "gg",
+      "password": "gg"
+    },
+    {
+      "id": "1747298879436",
+      "name": "asg",
+      "email": "aerg",
+      "password": "aegf"
+    },
+    {
+      "id": "1747299194475",
+      "name": "jhbj",
+      "email": "ljhdbsl",
+      "password": "ksdjv"
+    },
+    {
+      "id": "1747299878106",
+      "name": "kumar",
+      "email": "hghbjhb;",
+      "password": "jbhhjbijp"
+    },
+    {
+      "id": "1747300045489",
+      "name": "kumar",
+      "email": "iygfckhgv",
+      "password": ";pkjbpiub"
+    },
+    {
+      "id": "1747300266976",
+      "name": "kumar",
+      "email": "khgvuoy",
+      "password": ";kjb"
+    },
+    {
+      "id": "1747372415384",
+      "name": "raja",
+      "email": "hgb",
+      "password": "hgv"
+    },
+    {
+      "id": "1747381946035",
+      "name": "fzvDS",
+      "email": "dsbdsb",
+      "password": "dbd"
+    },
+    {
+      "id": "1747381962389",
+      "name": "dafb",
+      "email": "dfbzdfb",
+      "password": "adfbe"
+    },
+    {
+      "id": "1747382109798",
+      "name": "dvdsd",
+      "email": "brbdb",
+      "password": "fdbd"
+    },
+    {
+      "id": "1747630806830",
+      "name": "kumar",
+      "email": "ouygipu",
+      "password": "pihjbpiu"
+    },
+    {
+      "id": "1747633498816",
+      "name": "kumar",
+      "email": "ljhb",
+      "password": "kjb"
+    },
+    {
+      "id": "1747719749396",
+      "name": "okumsdn",
+      "email": "lj;kj",
+      "password": "ljh klj k"
+    },
+    {
+      "id": "1747720985323",
+      "name": "kumsr",
+      "email": ";dkjfl",
+      "password": "awrklng'LOW"
+    },
+    {
+      "id": "1747721003336",
+      "name": "JBLJBK;",
+      "email": "KJB;KJ",
+      "password": ";KJB;KJ"
+    },
+    {
+      "id": "1747721425053",
+      "name": "dsf",
+      "email": "erht",
+      "password": "etjetj"
+    },
+    {
+      "id": "1747721574298",
+      "name": "muythb jh",
+      "email": ";jbk",
+      "password": "kjb'kj"
+    },
+    {
+      "id": "1747723567982",
+      "name": "kgt",
+      "email": "ljbh",
+      "password": ";kkjb"
+    },
+    {
+      "id": "1747724830593",
+      "name": "kkkkkk",
+      "email": "jlh",
+      "password": "utrc"
+    },
+    {
+      "id": "1747724954439",
+      "name": "strjte",
+      "email": "etjej",
+      "password": "etyjetj"
+    },
+    {
+      "id": "1747725183329",
+      "name": "kkkk",
+      "email": "kkkk",
+      "password": "kkkkjk"
+    },
+    {
+      "id": "1747725201012",
+      "name": "ijhbhub",
+      "email": "ojhuoh",
+      "password": "oh uohbu"
+    },
+    {
+      "id": "1747725215821",
+      "name": "kjnkjn",
+      "email": ";kjkjn",
+      "password": ";kjnk;jn"
+    },
+    {
+      "id": "1747725241284",
+      "name": "lkjbi",
+      "email": ";kjb;k",
+      "password": ";kjb;kjbk;j"
+    },
+    {
+      "id": "1747725321944",
+      "name": "ohuuobJHB",
+      "email": "jhjhhjo",
+      "password": "jhbobuob"
+    },
+    {
+      "id": "1747725346812",
+      "name": "ljlj",
+      "email": "kjnk",
+      "password": "lkjk"
+    },
+    {
+      "id": "1747725615470",
+      "name": "sfsdf",
+      "email": "aga",
+      "password": "sdgq"
+    },
+    {
+      "id": "1747725637929",
+      "name": "sdfgdr",
+      "email": "dfba",
+      "password": "dfbdfb"
+    },
+    {
+      "id": "1747805549512",
+      "name": "mala",
+      "email": "kjnn",
+      "password": ";knk"
+    },
+    {
+      "id": 1748238415310,
+      "name": "kumar",
+      "email": "igv",
+      "password": "iu"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "8910",
+      "email": "test1",
+      "password": "test1"
+    },
+    {
+      "email": "test2",
+      "password": "test2",
+      "id": "bc25"
+    },
+    {
+      "email": "test3",
+      "password": "test3",
+      "id": "3ac1"
+    },
+    {
+      "id": "1745388249800",
+      "email": "test4",
+      "password": "t6est4"
+    },
+    {
+      "id": "1746426143208",
+      "email": "adgaerg",
+      "password": "aergaeaqer"
+    },
+    {
+      "id": "1746426154528",
+      "email": "kumar",
+      "password": "kumarrrrr"
+    },
+    {
+      "id": "1746426536756",
+      "email": "sfdsd",
+      "password": "dzfbva"
+    },
+    {
+      "id": "1746426644557",
+      "email": "asrgqaeraer",
+      "password": "srthshs"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1745815137685",
+      "text": "dgh",
+      "completed": false
+    }
+  ],
+  "my-to-do": [
+    {
+      "id": "ed13",
+      "text": "daehehrhaer",
+      "completed": false
+    }
+  ],
+  "todoTask": [
+    {
+      "id": "1",
+      "title": "Task 1"
+    },
+    {
+      "id": "2",
+      "title": "Task 2"
+    },
+    {
+      "id": "3",
+      "title": "Task 3"
+    }
+  ]
+}
